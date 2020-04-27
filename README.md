@@ -11,6 +11,8 @@ Name   | Value | DEsc.
 sss    | dddd  | ddd
 
 ```
+이 표 어떻게 하는건가??? 04.27 edwardKim
+
 System.out.println("3*");
 System.out.println("2*");
 System.out.println("1*");
